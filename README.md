@@ -28,8 +28,6 @@ nelectrons@github:~$ ./welcome.sh
 
 ```
 
-
-```
  <nelectrons@github.Stats>
 -------------------------
 <p>
@@ -38,8 +36,6 @@ nelectrons@github:~$ ./welcome.sh
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaizoku-oh" />
   </a>
   <p>
-
-```
 ```console
 nelectrons@github:~$ sudo echo "* * * * * /usr/local/bin/discord" >> /tmp/crontab$$
 ```
