@@ -28,14 +28,7 @@ nelectrons@github:~$ ./welcome.sh
 
 ```
 
- <nelectrons@github.Stats>
--------------------------
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=kaizoku-oh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaizoku-oh" />
-  </a>
-  <p>
+
 ```console
 nelectrons@github:~$ sudo echo "* * * * * /usr/local/bin/discord" >> /tmp/crontab$$
 ```
@@ -43,7 +36,7 @@ nelectrons@github:~$ sudo echo "* * * * * /usr/local/bin/discord" >> /tmp/cronta
 ```
 [sudo] Password for nelectrons:
 
-CATching bugs in code...
+CATching discord like a mouse...
                               
        \`*-.    [me]              
         )  _`-.                 
@@ -60,3 +53,11 @@ CATching bugs in code...
 [discord].*' /  .*' ; .*`- +'  `*' 
       `*-*   `*-*  `*-*'
 ```
+ <nelectrons@stats>
+-------------------------
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=nelectr0ns&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <a href="https://github.com/nelectr0ns/">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nelectr0ns" />
+  </a>
+  <p>
