@@ -13,7 +13,7 @@ nelectrons@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="https://github.com/luis-gustavoj/luis-gustavoj/blob/main/images/computer.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```
  nelectrons@github
