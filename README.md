@@ -18,7 +18,7 @@ nelectrons@github:~$ ./welcome.sh
 ```
  nelectrons@github
 -------------------------
-🏫 Love Reverse Enginerring
+🏫 Love Reverse Enginerring and OSINT
 🔎 Main interests in AI & Cybersec
 🔭 Working on a discord exploit
 🌱 Learning about Deep machine learning
